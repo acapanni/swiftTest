@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     }
 
     //commento
+    //ciao michi
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
